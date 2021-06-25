@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bence Balogh</title>
-    <link>/</link>
-    <description>Recent content on Bence Balogh</description>
+    <title>elixir on Bence Balogh</title>
+    <link>/tags/elixir/</link>
+    <description>Recent content in elixir on Bence Balogh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Bence Balogh 2021</copyright>
-    <lastBuildDate>Fri, 25 Jun 2021 18:54:30 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jun 2021 18:54:30 +0100</lastBuildDate><atom:link href="/tags/elixir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elixir - Regex.match? or String.contains?</title>
       <link>/posts/elixir-contains-or-regex/</link>
@@ -15,15 +15,6 @@
       
       <guid>/posts/elixir-contains-or-regex/</guid>
       <description>I was about to do a task in Elixir: check a short string if they contain another short string, ignoring the case of both strings.</description>
-    </item>
-    
-    <item>
-      <title>Merging case classes in Scala</title>
-      <link>/posts/scala-case-classes-merge/</link>
-      <pubDate>Mon, 03 May 2021 16:23:30 +0100</pubDate>
-      
-      <guid>/posts/scala-case-classes-merge/</guid>
-      <description>During a project I came across a requirement where I had to combine two case classes into one. This led me to look into various options on how we can achieve this.</description>
     </item>
     
   </channel>
